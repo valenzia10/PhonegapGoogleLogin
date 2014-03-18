@@ -1,3 +1,10 @@
+/* Google Login module for Phonegap 
+ * Author: E. Valencia
+ * Release date: 2014-03-18
+ * Released under MIT license
+ * https://github.com/valenzia10/PhonegapGoogleLogin
+ */
+
 var GoogleLogin = function(id,secret){
 	var clientId = id;
 	var clientSecret = secret;

@@ -8,10 +8,10 @@ function onDeviceReady(){
      document.getElementById("login-button").addEventListener('click',startLogin,false);
      document.getElementById("logout-button").addEventListener('click',logout,false);
      
-     var clientId = "251875841896.apps.googleusercontent.com";
-     var clientSecret = "YM0NklXI5ZqQoqRzPfYCq-L7";
+     var clientId = "MY_CLIENT_ID";
+     var clientSecret = "MY_CLIENT_SECRET";
      
-     // Create login object and initialize with your app client id and secret
+     // Create login object and initialize it with your app client id and secret
      gl = new GoogleLogin(clientId, clientSecret);
      
      // Check if already logged in (i.e. access and refresh tokens in localStorage)

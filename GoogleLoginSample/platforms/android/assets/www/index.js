@@ -8,14 +8,35 @@ function onDeviceReady(){
      document.getElementById("login-button").addEventListener('click',startLogin,false);
      document.getElementById("logout-button").addEventListener('click',logout,false);
      
-     var clientId = "251875841896.apps.googleusercontent.com";
-     var clientSecret = "YM0NklXI5ZqQoqRzPfYCq-L7";
+     var clientId = "MY_CLIENT_ID";
+     var clientSecret = "MY_CLIENT_SECRET";
      
-     // Create login object and initialize with your app client id and secret
+     // Create login object and initialize it with your app client id and secret
      gl = new GoogleLogin(clientId, clientSecret);
+     
+     // Check if already logged in (i.e. access and refresh tokens in localStorage)
+     gl.isLoggedIn(endLoginCheck);
 }
 
-// Start login function if not already logged in
+// Callback to fire when login status check ends
+function endLoginCheck(status){
+  if(status === -1){
+    alert('You are not logged in yet');
+    
+    // Clear profile name
+    document.getElementById("profile-name").innerHTML = ' ... ';
+            
+    // Update anchor behavior to logout
+    var logoutButton = document.getElementById("logout-button");
+    logoutButton.style.display = 'none';
+    var loginButton = document.getElementById("login-button");
+    loginButton.style.display = 'inline';
+  }else{
+    me(status);
+  }
+}
+
+// Start login function
 function startLogin(e){
   gl.startSignin(endLogin);
 }
