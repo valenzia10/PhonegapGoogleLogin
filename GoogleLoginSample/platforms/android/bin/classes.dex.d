@@ -1,0 +1,22 @@
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes.dex : \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/com/valenzia10/GoogleLoginSample/BuildConfig.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/com/valenzia10/GoogleLoginSample/GoogleLoginSample.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/com/valenzia10/GoogleLoginSample/R$attr.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/com/valenzia10/GoogleLoginSample/R$drawable.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/com/valenzia10/GoogleLoginSample/R$string.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/com/valenzia10/GoogleLoginSample/R$xml.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/com/valenzia10/GoogleLoginSample/R.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$5.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/valencia/Documents/Development/PhonegapGoogleLogin/GoogleLoginSample/platforms/android/bin/dexedLibs/classes-b6c802bd5741c1e2c0c5f12150405535.jar \

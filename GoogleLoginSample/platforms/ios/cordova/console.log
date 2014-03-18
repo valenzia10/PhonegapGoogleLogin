@@ -1,0 +1,42 @@
+2014-03-18 18:36:54.196 GoogleLoginSample[14010:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-18 18:36:54.245 GoogleLoginSample[14010:a0b] Unlimited access to network resources
+2014-03-18 18:36:54.708 GoogleLoginSample[14010:a0b] Resetting plugins due to page load.
+2014-03-18 18:36:54.878 GoogleLoginSample[14010:a0b] Finished load of: file:///Users/valencia/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/21005042-9199-4E2D-BBCF-991E814076E4/GoogleLoginSample.app/www/index.html
+2014-03-18 18:37:50.823 GoogleLoginSample[14010:a0b] Setting the WebView's frame to {{0, 0}, {320, 459}}
+2014-03-18 18:37:50.838 GoogleLoginSample[14010:a0b] THREAD WARNING: ['InAppBrowser'] took '83.118164' ms. Plugin should use a background thread.
+2014-03-18 18:38:15.715 GoogleLoginSample[14010:a0b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-03-18 18:39:42.445 GoogleLoginSample[14594:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-18 18:39:42.457 GoogleLoginSample[14594:a0b] Unlimited access to network resources
+2014-03-18 18:39:42.602 GoogleLoginSample[14594:a0b] Resetting plugins due to page load.
+2014-03-18 18:39:42.666 GoogleLoginSample[14594:a0b] Finished load of: file:///Users/valencia/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/21005042-9199-4E2D-BBCF-991E814076E4/GoogleLoginSample.app/www/index.html
+2014-03-18 18:40:35.931 GoogleLoginSample[15164:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-18 18:40:35.950 GoogleLoginSample[15164:a0b] Unlimited access to network resources
+2014-03-18 18:40:36.394 GoogleLoginSample[15164:a0b] Resetting plugins due to page load.
+2014-03-18 18:40:36.495 GoogleLoginSample[15164:a0b] Finished load of: file:///Users/valencia/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/21005042-9199-4E2D-BBCF-991E814076E4/GoogleLoginSample.app/www/index.html
+2014-03-18 18:40:40.553 GoogleLoginSample[15164:a0b] Setting the WebView's frame to {{0, 0}, {320, 459}}
+2014-03-18 18:40:40.559 GoogleLoginSample[15164:a0b] THREAD WARNING: ['InAppBrowser'] took '40.565918' ms. Plugin should use a background thread.
+2014-03-18 18:41:06.053 GoogleLoginSample[15164:a0b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-03-18 18:41:30.120 GoogleLoginSample[15164:a0b] Setting the WebView's frame to {{0, 0}, {320, 459}}
+2014-03-18 18:41:30.123 GoogleLoginSample[15164:a0b] THREAD WARNING: ['InAppBrowser'] took '10.562988' ms. Plugin should use a background thread.
+2014-03-18 18:41:49.240 GoogleLoginSample[15164:a0b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-03-18 18:43:02.982 GoogleLoginSample[15766:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-18 18:43:03.005 GoogleLoginSample[15766:a0b] Unlimited access to network resources
+2014-03-18 18:43:03.280 GoogleLoginSample[15766:a0b] Resetting plugins due to page load.
+2014-03-18 18:43:03.435 GoogleLoginSample[15766:a0b] Finished load of: file:///Users/valencia/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/21005042-9199-4E2D-BBCF-991E814076E4/GoogleLoginSample.app/www/index.html
+2014-03-18 18:43:18.435 GoogleLoginSample[15766:a0b] Setting the WebView's frame to {{0, 0}, {320, 459}}
+2014-03-18 18:43:18.441 GoogleLoginSample[15766:a0b] THREAD WARNING: ['InAppBrowser'] took '47.812988' ms. Plugin should use a background thread.
+2014-03-18 18:43:34.836 GoogleLoginSample[15766:a0b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-03-18 18:46:58.523 GoogleLoginSample[16358:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-18 18:46:58.542 GoogleLoginSample[16358:a0b] Unlimited access to network resources
+2014-03-18 18:46:59.016 GoogleLoginSample[16358:a0b] Resetting plugins due to page load.
+2014-03-18 18:46:59.104 GoogleLoginSample[16358:a0b] Finished load of: file:///Users/valencia/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/21005042-9199-4E2D-BBCF-991E814076E4/GoogleLoginSample.app/www/index.html
+2014-03-18 18:47:02.150 GoogleLoginSample[16358:a0b] Setting the WebView's frame to {{0, 0}, {320, 459}}
+2014-03-18 18:47:02.156 GoogleLoginSample[16358:a0b] THREAD WARNING: ['InAppBrowser'] took '43.942871' ms. Plugin should use a background thread.
+2014-03-18 18:47:17.689 GoogleLoginSample[16358:a0b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-03-18 18:59:15.585 GoogleLoginSample[17015:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-18 18:59:15.613 GoogleLoginSample[17015:a0b] Unlimited access to network resources
+2014-03-18 18:59:16.131 GoogleLoginSample[17015:a0b] Resetting plugins due to page load.
+2014-03-18 18:59:16.281 GoogleLoginSample[17015:a0b] Finished load of: file:///Users/valencia/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/21005042-9199-4E2D-BBCF-991E814076E4/GoogleLoginSample.app/www/index.html
+2014-03-18 18:59:22.805 GoogleLoginSample[17015:a0b] Setting the WebView's frame to {{0, 0}, {320, 459}}
+2014-03-18 18:59:22.811 GoogleLoginSample[17015:a0b] THREAD WARNING: ['InAppBrowser'] took '46.916016' ms. Plugin should use a background thread.
+2014-03-18 18:59:38.669 GoogleLoginSample[17015:a0b] webView:didFailLoadWithError - -1004: Could not connect to the server.
